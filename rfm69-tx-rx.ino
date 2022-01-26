@@ -1,5 +1,5 @@
 
-#include "/home/renzo/Arduino/rfm69gw/rfm69.h"
+#include "rfm69.h"
 #include "Net.h"
 #include "WebServer.h"
 #include "Websocket.h"
